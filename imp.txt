@@ -5,3 +5,13 @@
 
 
 
+1.	Explain the procedure for OC & SC tests of transformer. From the test results explain how to compute equivalent circuit parameters of a single phase transformer?
+2.	Explain with the help of connection and phasor diagrams, how Scott connection is used to obtain two phase supply from three phase supply mains?
+3.	Discuss about Sumpner’s test on a single-phase transformer. 
+4.	Explain with the help of connection and phasor diagrams, Draw the three phase Connection like  Star – star ,Delta- Delta ,Open Delta Connection.
+5.	Explain why parallel operation of transformer is necessary. State the essential and desirable conditions which would be satisfied before two single-phase transformers may be operated in parallel.
+	
+
+
+
+
